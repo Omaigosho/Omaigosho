@@ -1,4 +1,12 @@
-## Hi there 👋
+const aboutMe = {
+  name: "Edson",
+  role: "Junior React Developer",
+  favoriteStack: ["React", "Node.js", "MySQL"],
+  currentlyLearning: "Backend con Express",
+};
+
+console.log(aboutMe);
+
 
 <!--
 **Omaigosho/Omaigosho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
