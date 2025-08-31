@@ -3,7 +3,7 @@
 
 ```js
 const aboutMe = {
-  role: "Junior React Developer",
+  role: "Junior Developer",
   code: [ "Python", "Java", "Javascript"],
   currentlyLearning: "React with Node JS",
   goal2025: "Construir proyectos reales que resuelvan problemas reales",
