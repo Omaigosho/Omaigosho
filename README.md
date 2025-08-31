@@ -1,20 +1,27 @@
 
+# 👋 Hola, soy Edson Pereira  
+
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
+const aboutMe = {
+  role: "Junior React Developer",
+  code: [ "Python", "Java"],
+  currentlyLearning: "React with Node JS",
+  goal2025: "Construir proyectos reales que resuelvan problemas reales",
+};
 
-class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+// Be greater than Average ✨
+const numbers = [2, 4, 6, 8, 10];
+const average = numbers.reduce((a, b) => a + b, 0) / numbers.length;
+
+const you = 12;
+
+if (you > average) {
+  console.log("Be greater than Average ✅");
+} else {
+  console.log("Keep pushing... 🚀");
 }
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
-}
-```
+
 
 <!--
 **Omaigosho/Omaigosho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
