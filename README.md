@@ -7,6 +7,7 @@ const aboutMe = {
   code: [ "Python", "Java"],
   currentlyLearning: "React with Node JS",
   goal2025: "Construir proyectos reales que resuelvan problemas reales",
+  personalLinks: ["https://www.linkedin.com/in/edson-pereira-463736319", "https://github.com/Omaigosho"]
 };
 
 // Be greater than Average ✨
