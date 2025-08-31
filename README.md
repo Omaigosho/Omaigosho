@@ -4,7 +4,7 @@
 ```js
 const aboutMe = {
   role: "Junior React Developer",
-  code: [ "Python", "Java"],
+  code: [ "Python", "Java", "Javascript"],
   currentlyLearning: "React with Node JS",
   goal2025: "Construir proyectos reales que resuelvan problemas reales",
   personalLinks: ["https://www.linkedin.com/in/edson-pereira-463736319", "https://github.com/Omaigosho"]
