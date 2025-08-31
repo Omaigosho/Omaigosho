@@ -1,11 +1,11 @@
-const aboutMe = {
-  name: "Edson",
-  role: "Junior React Developer",
-  favoriteStack: ["React", "Node.js", "MySQL"],
-  currentlyLearning: "Backend con Express",
-};
+ ## const aboutMe = {
+ ## name: "Edson",
+ ## role: "Junior React Developer",
+ ## favoriteStack: ["React", "Node.js", "MySQL"],
+ ## currentlyLearning: "Backend con Express",
+##  };
 
-console.log(aboutMe);
+##  console.log(aboutMe);
 
 
 <!--
