@@ -1,12 +1,20 @@
- ## const aboutMe = {
- ## name: "Edson",
- ## role: "Junior React Developer",
- ## favoriteStack: ["React", "Node.js", "MySQL"],
- ## currentlyLearning: "Backend con Express",
-##  };
 
-##  console.log(aboutMe);
+```js
+import SoftwareDeveloper from 'thompsonemerson';
 
+class Bio extends SoftwareDeveloper {
+  name     = 'Emerson Thompson';
+  title    = 'Software Engineer';
+  company  = 'Pipoca Digital | Remote';
+  location = 'Fortaleza, CE';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'PHP'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+}
+```
 
 <!--
 **Omaigosho/Omaigosho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
